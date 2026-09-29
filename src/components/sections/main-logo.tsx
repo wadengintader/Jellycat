@@ -9,8 +9,8 @@ const MainLogo = () => {
       onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=4814&aff_id=44723&source=Bestway" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/yIOTZRy.png" 
-        alt="7 Brew Logo" 
+        src="https://i.imgur.com/0naNcbl.png" 
+        alt="Jellycat Logo" 
         className="h-10 sm:h-15 w-20 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
