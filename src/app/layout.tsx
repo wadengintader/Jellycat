@@ -5,15 +5,15 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Bestway Gift Card",
-  description: "Participate in the T-Mobile Rewards program and get a chance to claim a $1000 gift card.",
+  title: "Jellycat Gift Card",
+  description: "Participate in the Jellycat Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/wiF7Od9.png", type: "image/png" },
+      { url: "https://i.imgur.com/yCxrSXl.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/wiF7Od9.png",
+    shortcut: "https://i.imgur.com/yCxrSXl.png",
     apple: [
-      { url: "https://i.imgur.com/wiF7Od9.png", sizes: "180x180", type: "image/png" },
+      { url: "https://i.imgur.com/yCxrSXl.png", sizes: "180x180", type: "image/png" },
     ],
     other: [
       {
